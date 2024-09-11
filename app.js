@@ -4,7 +4,7 @@ function sortear() {
     let ate = parseInt(document.getElementById('ate').value);
 
 let sorteados = [];
-let numero [];
+let numero;
 
 for(let i = 0; i < quantidade; i ++) {
     numero = obterNumeroAleatorio(de, ate);

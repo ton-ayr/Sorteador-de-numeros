@@ -1,4 +1,4 @@
-# Sorteio de Números :crystal_ball:
+# Sorteador de Números :crystal_ball:
 
 ## Descrição
 

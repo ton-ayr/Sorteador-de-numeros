@@ -24,10 +24,10 @@ Acesse o Sorteador de nomes [aqui](https://sorteador-nine-sandy.vercel.app/)
 
 ## Como Usar
 
-1. Acesse o [Sorteador de Números](https://sorteador-nine-sandy.vercel.app/)
-2. Insira a **quantidade de números** a serem sorteados.
-3. Defina o intervalo, com os campos **"de"** e **"até"** para o sorteio.
-4. Clique no botão **Sortear** para gerar os números aleatórios.
+1. Acesse o [Sorteador de Números](https://sorteador-nine-sandy.vercel.app/);
+2. Insira a **quantidade de números** a serem sorteados;
+3. Defina o intervalo, com os campos **"de"** e **"até"** para o sorteio;
+4. Clique no botão **Sortear** para gerar os números aleatórios;
 5. Para realizar um novo sorteio, clique em **Reiniciar**.
 
 ## Tecnologias Utilizadas

@@ -1,4 +1,4 @@
-# Sorteador de Números :ticket:
+# Sorteador de Números :1234:
 
 ## Descrição
 
